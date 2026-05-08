@@ -1,0 +1,10 @@
+[package]
+name = "site2md_secrss"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+scraper.workspace = true
+tokio.workspace = true
+wreq.workspace = true
+wreq-util.workspace = true

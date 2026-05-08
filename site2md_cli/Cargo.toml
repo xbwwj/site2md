@@ -1,0 +1,8 @@
+[package]
+name = "site2md_cli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio.workspace = true
+site2md_secrss.path = "../site2md_secrss/"
